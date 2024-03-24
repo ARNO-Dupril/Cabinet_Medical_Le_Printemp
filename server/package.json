@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "site web vitrine d'une clinique avec possibilité de prendre des rdv en ligne",
+  "main": "./app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps.git"
+  },
+  "keywords": [
+    "cabinet",
+    "medical",
+    "hopital",
+    "sante",
+    "urgence"
+  ],
+  "author": "ARNO-Dupril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps/issues"
+  },
+  "homepage": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  }
+}
