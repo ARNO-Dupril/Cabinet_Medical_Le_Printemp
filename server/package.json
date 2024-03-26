@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps.git"
+    "url": "git+https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemp.git"
   },
   "keywords": [
     "cabinet",
@@ -20,9 +20,9 @@
   "author": "ARNO-Dupril",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps/issues"
+    "url": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemp/issues"
   },
-  "homepage": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemps#readme",
+  "homepage": "https://github.com/ARNO-Dupril/Cabinet_Medical_Le_Printemp#readme",
   "dependencies": {
     "express": "^4.19.1",
     "nodemon": "^3.1.0"
